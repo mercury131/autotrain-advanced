@@ -15,7 +15,7 @@ sentencepiece==0.2.0
 tqdm==4.67.0
 werkzeug==3.1.2
 xgboost==2.1.2
-huggingface_hub==0.26.2
+huggingface_hub==0.20.2
 requests==2.32.3
 einops==0.8.0
 invisible-watermark==0.2.0
