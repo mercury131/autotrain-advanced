@@ -33,6 +33,9 @@ NOTE: AutoTrain is free! You only pay for the resources you use in case you deci
 
 
 - Run AutoTrain UI on Colab via ngrok: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_ngrok.ipynb)
+- 
+
+- Run2 AutoTrain UI on Colab via ngrok: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mercury131/autotrain-advanced/blob/sdxl/colabs/AutoTrain_ngrok.ipynb)
 
 
 ## Local Installation
