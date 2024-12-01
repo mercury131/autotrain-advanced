@@ -22,7 +22,7 @@ NOTE: AutoTrain is free! You only pay for the resources you use in case you deci
 | Image Scoring/Regression | ✅ | Coming Soon | [image_regression.yaml](https://github.com/huggingface/autotrain-advanced/tree/main/configs/image_scoring) |
 | DreamBooth LoRA | ✅ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_Dreambooth.ipynb) | [dreambooth_lora.yaml](https://github.com/huggingface/autotrain-advanced/tree/main/configs/dreambooth) |
 
-| DreamBooth LoRA | ✅ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mercury131/autotrain-advanced/blob/sdxl/colabs/AutoTrain_Dreambooth.ipynb) | [dreambooth_lora.yaml](https://github.com/mercury131/autotrain-advanced/tree/sdxl/configs/dreambooth) |
+| DreamBooth LoRA 2 | ✅ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mercury131/autotrain-advanced/blob/sdxl/colabs/AutoTrain_Dreambooth.ipynb) | [dreambooth_lora.yaml](https://github.com/mercury131/autotrain-advanced/tree/sdxl/configs/dreambooth) |
 
 | VLM | 🟥 | Coming Soon | [vlm.yaml](https://github.com/huggingface/autotrain-advanced/tree/main/configs/vlm) |
 
